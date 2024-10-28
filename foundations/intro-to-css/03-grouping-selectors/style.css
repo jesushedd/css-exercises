@@ -1,0 +1,15 @@
+.notice ,
+.noticeme {
+    font-size: 28px;
+    font-family: Helvetica, 'Times New Roman', 'sans-serif';
+}
+
+
+.notice{
+    color: white;
+    background-color: black;
+}
+
+.noticeme{
+    background-color: yellow;
+}
